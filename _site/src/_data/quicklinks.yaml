@@ -1,0 +1,14 @@
+---
+links:
+  - title: Latest Blog
+    url: "./blog/"
+    desc: Resources for our family
+  - title: Services
+    url: "./do/"
+    desc: What we will, have, and can do
+  - title: About
+    url: "./about/"
+    desc: Why we do what we do
+  - title: Partnership
+    url: "./partners/"
+    desc: Work with us
